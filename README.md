@@ -6,5 +6,4 @@
   Performed explanatory data analysis to get various insight and trends
 # Tool used
   Analysis - Microsoft Excel
-  Visualization - Microsoft Power BI 
-# Result
+  Visualization - Microsoft Power BI
